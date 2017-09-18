@@ -50,7 +50,6 @@ blocks:
     show_on_dashboard: false
     viewless: true
     default_status: published
-    searchable: false
     icon_many: "fa:cubes"
     icon_one: "fa:cube"
 ```
